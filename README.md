@@ -18,7 +18,7 @@
 
 ```text
 🎓  Dual Degree — B.Tech Mechanical Engineering + MS Statistics & Data Science
-🏛️  Indian Institute of Technology Kanpur  |  CPI: 8.92 / 10  |  2023 – 2028
+🏛️  Indian Institute of Technology Kanpur  |  2023 – 2028
 🔬  Research focus: Structural Dynamics, Vibro-Acoustics, Aeroelastic Modelling
 📊  Strong statistical & optimization toolkit (MILP, Stochastic Modelling, Monte Carlo)
 🏆  JEE Advanced AIR 3598  |  JEE Mains AIR 2869 (among 1.3M candidates)
