@@ -53,10 +53,10 @@ I'm a dual-degree undergraduate at IIT Kanpur working at the intersection of **c
       <p><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" /> <img src="https://img.shields.io/badge/Dynamics-Aeroelasticity-orange?style=flat-square" /></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/swaanu/ME_302-project">🌀 Turbomachinery Scale Modelling — Wind Tunnel</a></h4>
-      <p><em>ME 302 • Prof. Tushar Shikauria • Mar 2026</em></p>
-      <p>Derived a closed-form solution via isentropic flow relations and Reynolds similarity in <strong>Python</strong>. Evaluated 1138 compressor map points to determine maximum feasible scale of 0.6384. Validated static pressure consistency ($p_4 = 212.60$ kPa) under closed-loop conditions.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Fluid_Dynamics-green?style=flat-square" /></p>
+      <h4><a href="https://github.com/swaanu/Accenture_sylas">🏭 Sylas — Cyber-Physical Digital Twin</a></h4>
+      <p><em>Accenture Innovation Challenge • DigitalTwin.ai</em></p>
+      <p>Physics-Informed Cyber-Physical Digital Twin for automotive assembly lines. Integrates continuous <strong>Physics-Informed Neural Networks (PINNs)</strong>, causal graph topology, and unit-level digital passports to predict bottlenecks, mitigate $22k/min stoppages, and infer unmonitored blind spots.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PINNs-Physics_Informed_AI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Digital_Twin-orange?style=flat-square" /></p>
     </td>
   </tr>
   <tr>
